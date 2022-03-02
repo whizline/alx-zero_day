@@ -1,0 +1,6 @@
+i used these command lines
+git pull
+git add . 
+git commit -m "up to date" 
+git push
+            
